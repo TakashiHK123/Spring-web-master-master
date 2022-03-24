@@ -14,7 +14,7 @@ import java.sql.SQLException;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
-//Modificando en rama Master
+//Modificando en rama slave
 @Controller
 @RequestMapping("/cursos")
 public class CourseController {
